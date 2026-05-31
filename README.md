@@ -57,7 +57,7 @@ I'm a **Mechatronics Engineering** student at the **University of Waterloo**[cit
 
 <div align="center">
 
-*Engineering solutions from the first sketch to the final deployment.*
+*Trying my best to become an Engineer!*
 
 [![Portfolio](https://img.shields.io/badge/portfolio-fikayo--oguntunde.github.io-58A6FF?style=flat-square)](https://fikayo-oguntunde.github.io/Portfolio/)
 
