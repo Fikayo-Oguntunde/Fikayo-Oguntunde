@@ -16,10 +16,10 @@
 
 I'm a **Mechatronics Engineering** student at the **University of Waterloo**[cite: 1] with a strong focus on mechanical design, hardware integration, and full-stack development. I enjoy bridging the gap between high-level software logic and robust physical design.
 
-- ⚙️ **Mechanical Design** — Expert in SolidWorks[cite: 1], GD&T, and DFM[cite: 1]
-- 🤖 **Combat Robotics** — Member of WATBOTs Design Team[cite: 1]
-- 💻 **Software Development** — Passionate about building full-stack applications[cite: 1]
-- 🏎️ **Formula Electric** — Contributed to weight reduction and material testing[cite: 1]
+- ⚙️ **Mechanical Design** — Expert in SolidWorks, GD&T, and DFM
+- 🤖 **Combat Robotics** — Member of WATBOTs Design Team
+- 💻 **Software Development** — Passionate about building full-stack applications
+- 🏎️ **Formula Electric** — Contributed to weight reduction and material testing
 
 ---
 
